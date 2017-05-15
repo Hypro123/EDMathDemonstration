@@ -1,0 +1,20 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  Application.cpp
+Application.cpp(3): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  Audio.cpp
+  Font.cpp
+Font.cpp(6): fatal error C1083: Cannot open include file: 'stb_truetype.h': No such file or directory
+  Gizmos.cpp
+c:\users\s171649\desktop\aiebootstrap\bootstrap\Gizmos.h(3): fatal error C1083: Cannot open include file: 'glm/fwd.hpp': No such file or directory
+  imgui_glfw3.cpp
+imgui_glfw3.cpp(7): fatal error C1083: Cannot open include file: 'imgui.h': No such file or directory
+  Input.cpp
+Input.cpp(2): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  Renderer2D.cpp
+Renderer2D.cpp(2): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  SoundManager.cpp
+SoundManager.cpp(2): fatal error C1083: Cannot open include file: 'sndfile.hh': No such file or directory
+  Texture.cpp
+Texture.cpp(5): fatal error C1083: Cannot open include file: 'stb_image.h': No such file or directory
+  Generating Code...
